@@ -9,6 +9,13 @@
 > [!NOTE]
 > This boilerplate has the react-router-dom dependency.
 
+## ⚙️ Setting up
+
+> Type the following command in the terminal:
+```
+npm i
+```
+
 ## 🤝 Colaborators
 
 We would like to thank the following people who contributed to this project:
